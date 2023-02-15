@@ -58,14 +58,15 @@ tr:nth-child()
     border: brown;
 
 }
-POORMAN:hover{
-    text-shadow: 2px 2px 5px blue;
+.POORMAN:hover{
+    text-shadow: 2px 2px 5px blue;
 }
-.JUDGE:hover{  
-     text-shadow: 2px 2px brown;
-    }
-h6:hover {    
-    text-shadow: 20px 20px 30px gray;  
-      border:1px black solid;  
-      font-size: 30px;
+
+.JUDGE:hover{
+    text-shadow: 2px 2px 5px brown;
+}
+h6:hover {
+    text-shadow: 20px 20px 30px gray;
+    border:1px black solid;
+    font-size: 30px;
 }
