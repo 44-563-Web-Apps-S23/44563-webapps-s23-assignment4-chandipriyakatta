@@ -1,0 +1,61 @@
+.speech{
+    font-size:10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+.direction{
+    font-size: 12px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+
+}
+.direction:hover{
+    background-color: beige;
+
+}
+.POORMAN{
+    color: blueviolet;
+
+}
+.JUDGE{
+    color: pink;
+}
+
+table,th,td{
+    border: 1.5px solid;
+    border-collapse: collapse;
+    text-align: center;
+    color: seagreen;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 15px;
+    margin-bottom:15px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+tr:nth-child(even){
+    background-color: lightblue;
+
+}
+tr:nth-child()
+{
+    background-color: blue;
+
+}   
+
+.POORMAN:hover{
+    background-color: aquamarine;
+    color: blue;
+    text-shadow: 3px 3px palevioletred;
+    border: brown;
+}
+.JUDGE:hover{
+    background-color: aquamarine;
+    color: blue;
+    text-shadow: 3px 3px palevioletred;
+    border: brown;
+
+}
