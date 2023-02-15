@@ -58,10 +58,10 @@ tr:nth-child()
     border: brown;
 
 }
-HEROINE:hover{
+POORMAN:hover{
     text-shadow: 2px 2px 5px blue;
 }
-.COMEDIAN:hover{  
+.JUDGE:hover{  
      text-shadow: 2px 2px brown;
     }
 h6:hover {    
