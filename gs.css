@@ -58,3 +58,14 @@ tr:nth-child()
     border: brown;
 
 }
+HEROINE:hover{
+    text-shadow: 2px 2px 5px blue;
+}
+.COMEDIAN:hover{  
+     text-shadow: 2px 2px brown;
+    }
+h6:hover {    
+    text-shadow: 20px 20px 30px gray;  
+      border:1px black solid;  
+      font-size: 30px;
+}
