@@ -7,7 +7,7 @@
     font-size: 12px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
-    background-color: blue;
+    background-color: bisque;
 }
 .directions:hover{
     background-color: beige;
@@ -42,7 +42,7 @@ tr:nth-child(even){
 }
 tr:nth-child(3)
 {
-    background-color: blue;
+   backgroundcolor:bisque ;
 
 }   
 
