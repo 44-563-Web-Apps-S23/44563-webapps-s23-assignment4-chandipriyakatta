@@ -48,19 +48,19 @@ tr:nth-child(3)
 
 .POORMAN:hover{
     background-color: aquamarine;
-    color: blue;
+    color: lavenderblush;
     text-shadow: 3px 3px palevioletred;
     border: 3px solid brown;
 }
 .JUDGE:hover{
     background-color: aquamarine;
-    color: blue;
+    color: burlywood;
     text-shadow: 3px 3px palevioletred;
     border:3px solid brown;
 
 }
 .POORMAN:hover{
-    text-shadow: 2px 2px 5px blue;
+    text-shadow: 2px 2px 5px rebeccapurple;
 }
 
 .JUDGE:hover{
