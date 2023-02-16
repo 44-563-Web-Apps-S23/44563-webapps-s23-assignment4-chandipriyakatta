@@ -7,10 +7,11 @@
     font-size: 12px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
-
+    background-color: blue;
 }
 .directions:hover{
     background-color: beige;
+    color: aquamarine;
 
 }
 .POORMAN{
@@ -39,7 +40,7 @@ tr:nth-child(even){
     background-color: lightblue;
 
 }
-tr:nth-child()
+tr:nth-child(3)
 {
     background-color: blue;
 
@@ -49,13 +50,13 @@ tr:nth-child()
     background-color: aquamarine;
     color: blue;
     text-shadow: 3px 3px palevioletred;
-    border: brown;
+    border: 3px solid brown;
 }
 .JUDGE:hover{
     background-color: aquamarine;
     color: blue;
     text-shadow: 3px 3px palevioletred;
-    border: brown;
+    border:3px solid brown;
 
 }
 .POORMAN:hover{
@@ -70,3 +71,15 @@ h6:hover {
     border:1px black solid;
     font-size: 30px;
 }
+ul.navbar-horizontal{
+    display: flex;
+}
+ul li{
+    margin: 10 px;
+    padding: 20 px;
+    list-style: none;
+    }
+    li a{
+        text-decoration: none;
+         background-color: darkgreen;
+    }
